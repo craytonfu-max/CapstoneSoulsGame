@@ -1,4 +1,4 @@
-# CapstoneSoulsGame
+# Project Overview
 
 # About
 
