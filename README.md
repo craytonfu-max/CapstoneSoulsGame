@@ -6,7 +6,7 @@
 A walkthrough of the development process including blueprinting, map design, lighting setup, and troubleshooting.
 
 ## About
-A third-person dungeon crawler built in Unreal Engine 5, developed by following a foundational tutorial and extended with significant custom work. Designed and built an original castle dungeon map using free assets, crafted the layout and atmosphere from scratch, configured custom lighting throughout, and troubleshot spacing and camera issues to achieve a polished player experience.
+A third-person souls-like dungeon crawler built in Unreal Engine 5, developed by following a foundational tutorial and extended with significant custom work. Designed and built an original castle dungeon map using free assets, crafted the layout and atmosphere from scratch, configured custom lighting throughout, and troubleshot spacing and camera issues to achieve a polished player experience.
 
 ## Built With
 - Unreal Engine 5
