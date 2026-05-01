@@ -6,6 +6,7 @@ A third-person dungeon crawler built in Unreal Engine 5, developed by following 
 ## Built With
 - Unreal Engine 5
 - Free marketplace assets (castle/dungeon pack)
+- Blender
 
 ## What I Did
 - Designed original dungeon layout from scratch
