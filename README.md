@@ -21,7 +21,7 @@ A third-person souls-like dungeon crawler built in Unreal Engine 5, developed by
 - Based on tutorial by Gorka Games / (https://www.youtube.com/watch?v=Hs2sM7eFf6Q)
 
 ## Blueprints
-# Sword Trace
+### Sword Trace
 <img width="450" height="387" alt="Screenshot 2026-04-30 180631" src="https://github.com/user-attachments/assets/b7e48790-5e59-434c-9a7d-0913198aeb75" />
 
 <img width="1291" height="601" alt="Screenshot 2026-04-30 180556" src="https://github.com/user-attachments/assets/9dd660a0-7a00-4207-83a9-e08f6ef13517" />
